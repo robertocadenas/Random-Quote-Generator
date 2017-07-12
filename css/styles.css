@@ -56,14 +56,14 @@ body {
   content: ", ";
   font-style: normal;
 }
-.tags:before {
+.tags:before { /* New style */
   content: " #";
   font-style: normal;
 }
-.tags {
+.tags { /* New style */
   font-style: italic;
 }
-.tagsLine {
+.tagsLine { /* New style */
   font-size: 1.25rem;;
   letter-spacing: 0.05em;
   line-height: 1.1;

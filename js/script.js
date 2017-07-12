@@ -73,7 +73,6 @@ function printQuote () {
  console.log(quote.quote); //control no-repeat the coute
 }
 
-
 //randomColor with RGB format rgb(0-255,0-255,0-255)
 function randomColor() {
   var codeColor = 'rgb(';
@@ -86,7 +85,6 @@ function randomColor() {
   codeColor += ')';
   return codeColor;
 }
-
 
 function transitionQuotesOn() {
   // First clean the process to create one new with transitionQuotesOff()

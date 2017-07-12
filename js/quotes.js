@@ -36,5 +36,4 @@ var quotes = [
     citation: "The Correspondence Of Isaac Newton",
     tags: ['science', 'history']
   },
-
 ] ;
